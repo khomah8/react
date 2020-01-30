@@ -1,3 +1,3 @@
 # react
-react 101
+react JS 
 https://en.wikipedia.org/wiki/React_(web_framework)  and so on
