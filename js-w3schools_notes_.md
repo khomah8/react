@@ -10,7 +10,7 @@ _Placing scripts at the bottom of the <body> element improves the display speed,
 External scripts are practical when the same code is used in many different web pages. JavaScript files have the file extension **.js.**
 To use an external script, put the name of the script file in the src (source) attribute of a <script> tag:
   
-Example: <script src="myScript.js"></script>
+_Example: <script src="myScript.js"></script>_
 
-_External scripts cannot contain <script> tags._
+External scripts cannot contain <script> tags.
   
