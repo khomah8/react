@@ -42,7 +42,6 @@ If a JavaScript statement does not fit on one {visible} line, the best place [to
 
 JavaScript statements can be grouped together in **code blocks, inside curly brackets {...}**. The purpose of code blocks is to define statements to be executed together.
 
-All JavaScript identifiers are **case sensitive** 
+In JavaScript, the first character must be a **letter, or an underscore (_), or a dollar sign ($)**. Numbers are **not allowed as the first character**. This way JavaScript can easily distinguish identifiers from numbers. Hyphens are **not allowed** in JavaScript. They are reserved for subtractions. All JavaScript identifiers are **case sensitive**.  
 
-In JavaScript, the first character must be a **letter, or an underscore (_), or a dollar sign ($)**. Numbers are **not allowed as the first character**. This way JavaScript can easily distinguish identifiers from numbers. Hyphens are **not allowed** in JavaScript. They are reserved for subtractions. 
 
