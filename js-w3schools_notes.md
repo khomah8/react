@@ -1,4 +1,4 @@
-from **JavaScript** tutorial
+from [**JavaScript** tutorial](https://www.w3schools.com/js/):
 
 _Old JavaScript examples may use a type attribute: <script type="text/javascript">.
 The type attribute is not required. JavaScript is the default scripting language in HTML._
