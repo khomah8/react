@@ -38,5 +38,5 @@ JavaScript statements (programming instructions, code) are composed of:
 + Keywords, and 
 + Comments. { // smth }
 
-_Ending statements with [semicolon](/ ';') is not required, but highly recommended._
+_Ending statements with [semicolon](- ';') is not required, but highly recommended._
 
