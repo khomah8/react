@@ -8,8 +8,7 @@ Scripts can be placed in the <body>, or in the <head> section of an HTML page, o
 _Placing scripts at the bottom of the <body> element improves the display speed, because script interpretation slows down the display._
   
 External scripts are practical when the same code is used in many different web pages. JavaScript files have the file extension **.js.**
-To use an external script, put the name of the script file in the src (source) attribute of a <script> tag:
-  
+To use an external script, put the name of the script file in the src (source) **attribute** of a <script> tag:
 _Example: <script src="myScript.js"></script>_
 
 External scripts cannot contain <script> tags.
@@ -31,9 +30,9 @@ To access an HTML element, JavaScript can use the **document.getElementById(id)*
 4) Writing into the browser console, using **console.log()**. For debugging {F12} [purposes mainly](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_console).
 
 JavaScript statements (programming instructions, code) are composed of:
-+ Values, { Fixed values are called **literals**. Variable values are called **variables**. }
-+ Operators, 
-+ Expressions, 
++ Values, { Fixed values are called **literals**. Variable values are called **variables** }
++ Operators, { arithmetic operators ( + - * / ) to compute values, an assignment operator ( = ) to assign values to variables } 
++ Expressions, { An expression is a combination of values, variables, and operators, which computes to a value }
 + [Keywords](https://www.w3schools.com/js/js_reserved.asp), 
 + Comments. { // smth }
 
