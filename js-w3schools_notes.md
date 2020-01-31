@@ -31,10 +31,10 @@ To access an HTML element, JavaScript can use the **document.getElementById(id)*
 4) Writing into the browser console, using **console.log()**. For debugging {F12} [purposes mainly](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_console).
 
 JavaScript statements (programming instructions, code) are composed of:
-+ Values, 
++ Values, { Fixed values are called **literals**. Variable values are called **variables**. }
 + Operators, 
 + Expressions, 
-+ [Keywords](https://www.w3schools.com/js/js_reserved.asp), and 
++ [Keywords](https://www.w3schools.com/js/js_reserved.asp), 
 + Comments. { // smth }
 
 _Ending statements with [semicolon](- ';') is not required, but highly recommended._
