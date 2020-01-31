@@ -15,9 +15,9 @@ _Example: <script src="myScript.js"></script>_
 External scripts cannot contain <script> tags.
   
 Placing scripts in external files has some advantages:
-1) It separates HTML and code
-2) It makes HTML and JavaScript easier to read and maintain
-3) Cached JavaScript files can speed up page loads
+1) It separates HTML and code (versioning? )
+2) It makes HTML and JavaScript easier to read and maintain (teamwork? debug? )
+3) Cached JavaScript files can speed up page loads 
 
 External scripts can be referenced with a **full URL** or with a **path relative** to the current web page.
 
