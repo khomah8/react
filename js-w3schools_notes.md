@@ -42,3 +42,4 @@ If a JavaScript statement does not fit on one {visible} line, the best place [to
 
 JavaScript statements can be grouped together in **code blocks, inside curly brackets {...}**. The purpose of code blocks is to define statements to be executed together.
 
+All JavaScript identifiers are **case sensitive** 
