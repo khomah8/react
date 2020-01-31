@@ -34,7 +34,7 @@ JavaScript statements (programming instructions, code) are composed of:
 + Values, 
 + Operators, 
 + Expressions, 
-+ Keywords, and 
++ [Keywords](https://www.w3schools.com/js/js_reserved.asp), and 
 + Comments. { // smth }
 
 _Ending statements with [semicolon](- ';') is not required, but highly recommended._
