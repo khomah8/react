@@ -1,4 +1,4 @@
-parts from [**JavaScript** tutorial](https://www.w3schools.com/js/ 'code examples links are following'):
+parts from [**JavaScript** tutorial](https://www.w3schools.com/js/ 'try-code examples links are following'):
 
 _Old JavaScript examples may use a type attribute: <script type="text/javascript">.
 The type attribute is not required. JavaScript is the default scripting language in HTML._
@@ -29,4 +29,12 @@ To access an HTML element, JavaScript can use the **document.getElementById(id)*
 3) Writing into [an alert box](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_alert), using **window.alert()** method.
 
 4) Writing into the browser console, using **console.log()**. For debugging (F12) [purposes mainly](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_console).
+
+JavaScript statements (programming instructions, code) are composed of:
+
++ Values, 
++ Operators, 
++ Expressions,
++ Keywords, and 
++ Comments.
 
