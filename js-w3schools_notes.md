@@ -25,9 +25,9 @@ JavaScript can "display" data in different ways:
 1) Writing into an HTML element, using innerHTML.
 To access an HTML element, JavaScript can use the **document.getElementById(id)**.innerHTML method. The **id attribute** defines the HTML element. The **innerHTML property** [defines the HTML content](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_dom).
 
-2) Writing into the HTML output using document.write(). For testing purposes, it is convenient to use document.write(). **Using document.write() after an HTML document is loaded, [will delete all existing HTML](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_write_over)** 
+2) Writing into the HTML output using document.write(). For testing purposes, it is convenient to use. **Using document.write() after an HTML document is loaded, [will delete all existing HTML](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_write_over)** 
 
-3) Writing into an alert box, using window.alert().
+3) Writing into an alert box, using [window.alert() method](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_alert).
 
-4) Writing into the browser console, using console.log().
+4) Writing into the browser console, using console.log(). For debugging purposes mainly.
 
