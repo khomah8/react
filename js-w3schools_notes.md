@@ -34,7 +34,7 @@ JavaScript statements (programming instructions, code) are composed of:
 + Operators, { arithmetic ( + - * / ) to compute values, an assignment ( = ) to assign values to variables } 
 + Expressions, { An expression is a combination of **values, variables, and operators, which computes to a value** }
 + [Keywords](https://www.w3schools.com/js/js_reserved.asp), 
-+ Comments. { // smth }
++ Comments. { // smth, /* smth else */ }
 
 _Ending statements with [semicolon](- ';') is not required, but highly recommended._
 
