@@ -23,6 +23,11 @@ External scripts can be referenced with a **full URL** or with a **path relative
 
 JavaScript can "display" data in different ways:
 1) Writing into an HTML element, using innerHTML.
+To access an HTML element, JavaScript can use the **document.getElementById(id)**.innerHTML method. The **id** attribute defines the HTML element. The **innerHTML** property defines the HTML content.
+
 2) Writing into the HTML output using document.write().
+
 3) Writing into an alert box, using window.alert().
+
 4) Writing into the browser console, using console.log().
+
