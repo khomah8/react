@@ -20,3 +20,9 @@ Placing scripts in external files has some advantages:
 3) Cached JavaScript files can speed up page loads
 
 External scripts can be referenced with a **full URL** or with a **path relative** to the current web page.
+
+JavaScript can "display" data in different ways:
+1) Writing into an HTML element, using innerHTML.
+2) Writing into the HTML output using document.write().
+3) Writing into an alert box, using window.alert().
+4) Writing into the browser console, using console.log().
