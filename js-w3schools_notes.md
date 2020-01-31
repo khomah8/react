@@ -31,7 +31,6 @@ To access an HTML element, JavaScript can use the **document.getElementById(id)*
 4) Writing into the browser console, using **console.log()**. For debugging {F12} [purposes mainly](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_console).
 
 JavaScript statements (programming instructions, code) are composed of:
-
 + Values, 
 + Operators, 
 + Expressions, 
@@ -41,4 +40,6 @@ JavaScript statements (programming instructions, code) are composed of:
 _Ending statements with [semicolon](- ';') is not required, but highly recommended._
 
 If a JavaScript statement does not fit on one {visible} line, the best place [to break it is after an operator](https://www.w3schools.com/js/tryit.asp?filename=tryjs_statements_linebreak) 
+
+JavaScript statements can be grouped together in **code blocks, inside curly brackets {...}**. The purpose of code blocks is to define statements to be executed together.
 
