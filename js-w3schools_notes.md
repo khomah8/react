@@ -29,5 +29,5 @@ To access an HTML element, JavaScript can use the **document.getElementById(id)*
 
 3) Writing into an alert box, using [window.alert() method](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_alert).
 
-4) Writing into the browser console, using console.log(). For debugging purposes mainly.
+4) Writing into the browser console, using console.log(). For debugging (F12) [purposes mainly](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_console).
 
