@@ -28,7 +28,7 @@ To access an HTML element, JavaScript can use the **document.getElementById(id)*
 
 3) Writing into [an alert box](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_alert), using **window.alert()** method.
 
-4) Writing into the browser console, using **console.log()**. For debugging (F12) [purposes mainly](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_console).
+4) Writing into the browser console, using **console.log()**. For debugging {F12} [purposes mainly](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_console).
 
 JavaScript statements (programming instructions, code) are composed of:
 
@@ -39,4 +39,6 @@ JavaScript statements (programming instructions, code) are composed of:
 + Comments. { // smth }
 
 _Ending statements with [semicolon](- ';') is not required, but highly recommended._
+
+If a JavaScript statement does not fit on one {visible} line, the best place [to break it is after an operator](https://www.w3schools.com/js/tryit.asp?filename=tryjs_statements_linebreak) 
 
