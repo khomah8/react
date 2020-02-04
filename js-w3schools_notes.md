@@ -31,7 +31,7 @@ To access an HTML element, JavaScript can use the **document.getElementById(id)*
 
 JavaScript statements (programming instructions, code) are composed of:
 + Values, { Fixed values are called **literals**. Variable values are called **variables** }
-+ Operators, { arithmetic ( + - * / ) to compute values, an assignment ( = ) to assign values to variables } 
++ Operators, { arithmetic ( + - * / ) to compute values, an assignment ( = ) to assign values to variables; [example of concat for strings](https://www.w3schools.com/js/tryit.asp?filename=tryjs_oper_concat4) }
 + Expressions, { An expression is a combination of **values, variables, and operators, which computes to a value** }
 + [Keywords](https://www.w3schools.com/js/js_reserved.asp), 
 + Comments. { // smth, /* smth else */ }
